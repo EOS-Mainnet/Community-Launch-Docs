@@ -42,11 +42,11 @@ to move forward with the proposed Constitution and accompanying governing docume
 
 This interim Constitution will be up for revision and referendum within 90 days, or as soon as the Referendum Contracts are in place, allowing for on-chain voting. By the end of 2018 we plan to put all major points of discussion up for a formal vote by the community.
 
-Reason for Changes
+**Reason for Changes**
 
 Aside from us believing in these changes, we also received a strong signal from Block.one that it was necessary for the community to modify the Constitution and to make this the communities’ blockchain.
 
-Summary of Changes
+**Summary of Changes**
 
 1. Article 1 (non-violence) is being amended to allow prosecution of non-violent crimes like fraud. Yesterday’s consensus involved simply adding the word “unlawful violence”.  This version is clearer and less prone to misinterpretation. The Article now reads:
 

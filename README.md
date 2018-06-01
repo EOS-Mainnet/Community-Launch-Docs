@@ -34,6 +34,7 @@ We now have consent and adoption signaled by the following Block Producer Candid
 - EOS New York
 - EOS NodeOne
 - EOSREAL
+- EOS Rio
 - EOSYS
 - GenerEOS
 - sw/eden 

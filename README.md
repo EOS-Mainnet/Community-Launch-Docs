@@ -4,8 +4,8 @@
 
 **Note: Translations to other languages forthcoming**
 
-====
-EOS Community,
+
+## EOS Community,
 
 Thank you for your time and consideration in crafting the EOS Mainnet Governance documentation over the course of the last 6 months. Input has been heard and incorporated from hundreds of independent contributors. 
 

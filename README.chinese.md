@@ -28,9 +28,9 @@ Document: https://github.com/EOS-Mainnet/Community-Launch-Docs/blob/447509486463
 
 Change: https://github.com/EOS-Mainnet/Community-Launch-Docs/commit/4475094864637febed29154b2391e92384427bb6#diff-875896b343c7fda4e4221743780fa8f7
 
-文档：https：//github.com/EOS-Mainnet/Community-Launch-Docs/blob/4475094864637febed29154b2391e92384427bb6/EOS%20BP%20Agreement%2020180601.txt
+文档：https://github.com/EOS-Mainnet/Community-Launch-Docs/blob/4475094864637febed29154b2391e92384427bb6/EOS%20BP%20Agreement%2020180601.txt
 
-更改：https：//github.com/EOS-Mainnet/Community-Launch-Docs/commit/4475094864637febed29154b2391e92384427bb6#diff-875896b343c7fda4e4221743780fa8f7
+更改：https://github.com/EOS-Mainnet/Community-Launch-Docs/commit/4475094864637febed29154b2391e92384427bb6#diff-875896b343c7fda4e4221743780fa8f7
 
 虽然这些可能是一个好主意，但很多社区成员表达了担心，我们希望将其提交正式的全民投票。 Block.one也出于合规原因，开发出超越社区偏好的默认系统设置。
 

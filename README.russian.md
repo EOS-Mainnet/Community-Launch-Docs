@@ -18,7 +18,7 @@
 
 Теперь у нас есть согласие и принятие, о которых сообщают следующие кандидаты от производителей блоков, в том числе, но не ограничиваясь: 
 
-**Bitspace, BlockchainLab EOS, Blockgenic, Blockmatrix, Cryptolions, Distributed.Fund, EOS 42, EOS Arabia, EOS Argentina, EOS Army, EOS Asia, EOS Authority, EOS Brazil, EOS Cafe/Calgary, EOS Canada, EOS Costa Rica, eosDAC, EOS Detroit, EOS Dublin, EOSIO.SG, EOS Emerge, EOS Lithuania, EOSMediterranean, EOSMeso, EOSMetal, EOS Nation, EOS New York, EOS NodeOne, EOS Pacific, EOSREAL, EOS Romania, EOSYS, EOS UK, EOS Van, EOSVibes, GenerEOS, LiquidEOS, Staked, sw/eden, TChain,**
+**Bitspace, BlockchainLab EOS, Blockgenic, Blockmatrix, Cryptolions, Distributed.Fund, EOS 42, EOS Arabia, EOS Argentina, EOS Army, EOS Asia, EOS Authority, EOS Brazil, EOS Cafe/Calgary, EOS Canada, EOS Costa Rica, EOS-CSX, eosDAC, EOS Detroit, EOS Dublin, EOSIO.SG, EOS Emerge, EOS Lithuania, EOSMediterranean, EOSMeso, EOSMetal, EOS Nation, EOS New York, EOS NodeOne, EOS Pacific, EOSREAL, EOS Romania, EOSphere, EOSYS, EOS Tribe, EOS UK, EOS Van, EOSVibes, GenerEOS, LiquidEOS, Staked, sw/eden, TChain,**
 
 предлагаемой Конституции и сопутствующими руководящими документами, находящимися здесь: https://github.com/EOS-Mainnet/Community-Launch-Docs . На данный момент хранилищем будут управлять: David Moss, John Milburn, and Sam Sapoznick.
 

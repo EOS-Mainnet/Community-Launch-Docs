@@ -1,7 +1,7 @@
 This Constitution is a multi-party contract entered into by the Members by virtue of their use of this blockchain.
 
 Article I - No Initiation of Violence
-Members shall not initiate violence or the threat of violence against another Member.
+Members shall not initiate violence or the threat of violence against another Member. Lawful prosecution of crimes with the goal of preserving life, liberty and property does not constitute initiation of violence.
 Article II - No Perjury
 Members shall be liable for losses caused by false or misleading attestations and shall forfeit any profit gained thereby.
 Article III - Rights
@@ -38,3 +38,5 @@ Article XVIII - Acceptance
 A contract is deemed accepted when a member signs a transaction which incorporates a TAPOS proof of a block whose implied state incorporates an ABI of said contract and said transaction is incorporated into the blockchain.
 Article XIX - Counterparts
 This Constitution may be executed in any number of counterparts, each of which when executed and delivered shall constitute a duplicate original, but all counterparts together shall constitute a single agreement.
+Article XX - Interim Constitution
+This constitution is interim and is intended to remain in effect until a permanent constitution is written and ratified in a referendum.

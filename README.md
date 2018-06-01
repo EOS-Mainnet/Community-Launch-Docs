@@ -4,7 +4,7 @@ We are taking the 20180531 versions and suggested following amendments to create
 We are suggesting the following amendment on constitution:
 
 C1: Article I: 
-Members shall not initiate violence or the threat of violence against another Member. Lawful prosecution of crimes does not constitute initiation of violence.
+Members shall not initiate violence or the threat of violence against another Member. Lawful prosecution of crimes with the goal of preserving life, liberty and property does not constitute initiation of violence.
 
 C2: Addition to constitution:
 Article XX Interim Constitution

@@ -68,7 +68,7 @@ Go EOS!
 
 ---------
 
-COMUNIDAD EOS!
+## COMUNIDAD EOS!
 
 Gracias a todos por su tiempo y consideración para elaborar los documentos para la buena gobernanza de la principal cadena EOS (EOS Mainnet) por los últimos 6 meses.  Se han escuchado e incorporado las contribuciones de cientos de colaboradores independientes. 
 
@@ -90,8 +90,7 @@ Resumen de los cambios
 “Artículo 1. No iniciación de violencia. 
 Los miembros no iniciarán violencia o amenzarán con violencia contra otros miembros.  El enjuiciamiento legal con el fin de preservar la vida, la libertad y la propiedad no consitituyen iniciación de violencia.”
 
-     2.  Se ha cambiado el nombre de la token de SYS a EOS.
-
+2.  Se ha cambiado el nombre de la token de SYS a EOS.
 
 3.  Se removió del contrato de transferencias los siguientes dos requerimientos:
 

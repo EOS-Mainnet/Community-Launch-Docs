@@ -4,6 +4,7 @@
 
 **Note: Translations to other languages forthcoming**
 
+--------
 
 ## EOS Community,
 

@@ -7,7 +7,7 @@ Members shall not initiate violence or the threat of violence against another Me
 Members shall be liable for losses caused by false or misleading attestations and shall forfeit any profit gained thereby.
 
 # Article III - Rights
-The Members grant the right of contract and of private property to each other, therefore no property shall change hands except with the consent of the owner, by a valid Arbitrator��s order, or via community referendum. This Constitution creates no positive rights for or between any Members.
+The Members grant the right of contract and of private property to each other, therefore no property shall change hands except with the consent of the owner, by a valid Arbitrator’s order, or via community referendum. This Constitution creates no positive rights for or between any Members.
 
 # Article IV - No Vote Buying
 No Member shall offer nor accept anything of value in exchange for a vote of any type, nor shall any Member unduly influence the vote of another.

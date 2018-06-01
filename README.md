@@ -10,7 +10,7 @@
 
 Thank you for your time and consideration in crafting the EOS Mainnet Governance documentation over the course of the last 6 months. Input has been heard and incorporated from hundreds of independent contributors. 
 
-We now have consent and adoption signaled by the Block Producer Candidates*, including, but not limited to, Bitspace, Blockgenic, Cryptolions, EOS 42, EOS Argentina, EOS Asia, EOS Cafe/Calgary, EOS Canada, eosDAC, EOS Detroit, EOS Dublin, EOSMeso, EOS Nation, EOS New York, EOS NodeOne, EOSREAL, EOSYS, GenerEOS, sw/eden, to move forward with the proposed Constitution and accompanying governing documents found here: https://github.com/EOS-Mainnet/Community-Launch-Docs. For the time being, the repository will be managed by David Moss, John Milburn, and Sam Sapoznick.
+We now have consent and adoption signaled by the Block Producer Candidates*, including, but not limited to, **Bitspace, Blockgenic, Cryptolions, EOS 42, EOS Argentina, EOS Asia, EOS Cafe/Calgary, EOS Canada, eosDAC, EOS Detroit, EOS Dublin, EOSMeso, EOS Nation, EOS New York, EOS NodeOne, EOSREAL, EOSYS, GenerEOS, sw/eden**, to move forward with the proposed Constitution and accompanying governing documents found here: https://github.com/EOS-Mainnet/Community-Launch-Docs. For the time being, the repository will be managed by David Moss, John Milburn, and Sam Sapoznick.
 
 This interim Constitution will be up for revision and referendum within 90 days, or as soon as the Referendum Contracts are in place, allowing for on-chain voting. By the end of 2018 we plan to put all major points of discussion up for a formal vote by the community.
 

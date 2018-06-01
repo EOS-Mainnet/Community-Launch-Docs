@@ -4,7 +4,7 @@ EOS社区，
 
 感谢您在过去6个月内参与制定EOS Mainnet 治理文件。该治理文件已经收到数百名独立贡献者的意见。
 
-我们现在已经获得以下超级节点*的同意，包括但不限于 **Bitspace, BlockchainLab EOS, Blockgenic, Blockmatrix, Cryptolions, Distributed.Fund, EOS 42, EOS Arabia, EOS Argentina, EOS Army, EOS Asia, EOS Authority, EOS Brazil, EOS Cafe/Calgary, EOS Canada, EOS Costa Rica, eosDAC, EOS Detroit, EOS Dublin, EOSIO.SG, EOS Emerge, EOS Lithuania, EOSMediterranean, EOSMeso, EOSMetal, EOS Nation, EOS New York, EOS NodeOne, EOS Pacific, EOSREAL, EOS Romania, EOSYS, EOS UK, EOS Van, EOSVibes, GenerEOS, LiquidEOS, Staked, sw/eden, TChain,** 以推进宪法和相关治理文件：https://github.com/EOS-Mainnet/Community-Launch-Docs。目前，该库将由David Moss，John Milburn和Sam Sapoznick管理。
+我们现在已经获得以下超级节点*的同意，包括但不限于 **Bitspace, BlockchainLab EOS, Blockgenic, Blockmatrix, Cryptolions, Distributed.Fund, EOS 42, EOS Arabia, EOS Argentina, EOS Army, EOS Asia, EOS Authority, EOS Brazil, EOS Cafe/Calgary, EOS Canada, EOS Costa Rica, eosDAC, EOS Detroit, EOS Dublin, EOSIO.SG, EOS Emerge, EOS Lithuania, EOSMediterranean, EOSMeso, EOSMetal, EOS Nation, EOS New York, EOS NodeOne, EOS Pacific, EOSREAL, EOS Romania, EOSYS, EOS UK, EOS Van, EOSVibes, GenerEOS, LiquidEOS, Staked, sw/eden, TChain,** 以推进宪法和相关治理文件：https://github.com/EOS-Mainnet/Community-Launch-Docs 。目前，该库将由David Moss，John Milburn和Sam Sapoznick管理。
 
 本临时宪法的修改和全民投票，将在未来90天内，或在全民投票系统合约到位后立即在区块链上进行。到2018年底，我们计划将所有讨论要点提交社区正式投票。
 

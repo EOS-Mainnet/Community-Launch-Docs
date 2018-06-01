@@ -1,4 +1,6 @@
 
+**Block Producer Candidates please post your support in the comments and EOSGo will update this post accordingly.**
+
 ## Read This First
 [https://forums.eosgo.io/discussion/1109/governance-announcement](https://forums.eosgo.io/discussion/1109/governance-announcement)
 
@@ -64,4 +66,4 @@ We commit to launch EOS from the following repo: https://github.com/EOS-Mainnet
 Go EOS!
 
 
-*Block Producer Candidates please post your support in the comments and EOSGo will update this post accordingly.
+

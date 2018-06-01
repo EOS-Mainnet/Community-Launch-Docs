@@ -18,7 +18,7 @@ Thank you for your time and consideration in crafting the EOS Mainnet Governance
 
 We now have consent and adoption signaled by the following Block Producer Candidates; including, but not limited to: 
 
-**Bitspace, BlockchainLab EOS, Blockgenic, Blockmatrix, Cryptolions, Distributed.Fund, EOS 42, EOS Arabia, EOS Argentina, EOS Asia, EOS Authority, EOS Brazil, EOS Cafe/Calgary, EOS Canada, EOS Costa Rica, eosDAC, EOS Detroit, EOS Dublin, EOSIO.SG, EOS Emerge, EOS Lithuania, EOSMeso, EOSMetal, EOS Nation, EOS New York, EOS NodeOne, EOS Pacific, EOSREAL, EOS Romania, EOSYS, EOS UK, EOS Van, EOSVibes, GenerEOS, LiquidEOS, Staked, sw/eden, TChain,**
+**Bitspace, BlockchainLab EOS, Blockgenic, Blockmatrix, Cryptolions, Distributed.Fund, EOS 42, EOS Arabia, EOS Argentina, EOS Army, EOS Asia, EOS Authority, EOS Brazil, EOS Cafe/Calgary, EOS Canada, EOS Costa Rica, eosDAC, EOS Detroit, EOS Dublin, EOSIO.SG, EOS Emerge, EOS Lithuania, EOSMediterranean, EOSMeso, EOSMetal, EOS Nation, EOS New York, EOS NodeOne, EOS Pacific, EOSREAL, EOS Romania, EOSYS, EOS UK, EOS Van, EOSVibes, GenerEOS, LiquidEOS, Staked, sw/eden, TChain,**
 
 to move forward with the proposed Constitution and accompanying governing documents found here: https://github.com/EOS-Mainnet/Community-Launch-Docs. For the time being, the repository will be managed by David Moss, John Milburn, and Sam Sapoznick.
 

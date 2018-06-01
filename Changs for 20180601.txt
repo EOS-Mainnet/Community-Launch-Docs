@@ -14,7 +14,7 @@ C3: Change SYS to EOS (Article V)
 
 I am suggesting the following amendment on BP Agreement
 B1: 
-I, {{producer}}, hereby agree to disclose and attest under penalty of perjury all direct shareholders and all ultimate beneficial owners of my company who own more than 10%.
+I, {{producer}}, hereby agree to disclose and attest under penalty of perjury all ultimate beneficial owners of my company who own more than 10% and all direct shareholders.
 
 
 Reinstate KYC requirement imposed on every transfer

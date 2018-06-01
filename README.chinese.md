@@ -46,7 +46,7 @@ I, {{producer}}, hereby agree to disclose and attest under penalty of perjury al
 
 超级节点请在所有社交媒体平台上宣布以下内容：
 
-我们承诺从以下代码库启动EOS：https：//github.com/EOS-Mainnet #EOSmainnet #EOSconstitution #EOSlaunch
+我们承诺从以下代码库启动EOS：https://github.com/EOS-Mainnet #EOSmainnet #EOSconstitution #EOSlaunch
 
 加油EOS！
 

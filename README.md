@@ -9,6 +9,7 @@
 
 - [Spanish](https://github.com/EOS-Mainnet/Community-Launch-Docs/blob/master/README.spanish.md)
 - [Chinese](https://github.com/EOS-Mainnet/Community-Launch-Docs/blob/master/README.chinese.md)
+- [Russian](https://github.com/EOS-Mainnet/Community-Launch-Docs/blob/master/README.russian.md)
 
 **Note: Translations to other languages forthcoming**
 

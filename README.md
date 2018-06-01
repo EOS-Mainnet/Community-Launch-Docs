@@ -8,6 +8,7 @@
 ### Translations
 
 - [Spanish](https://github.com/EOS-Mainnet/Community-Launch-Docs/blob/master/README.spanish.md)
+- [Chinese](https://github.com/EOS-Mainnet/Community-Launch-Docs/blob/master/README.chinese.md)
 
 **Note: Translations to other languages forthcoming**
 

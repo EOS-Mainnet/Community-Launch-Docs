@@ -1,5 +1,6 @@
 ## Read This First
 [https://forums.eosgo.io/discussion/1109/governance-announcement](https://forums.eosgo.io/discussion/1109/governance-announcement)
+
 **Block Producer Candidates please post your support in the comments and EOSGo will update this post accordingly.**
 
 --------

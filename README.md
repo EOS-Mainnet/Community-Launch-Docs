@@ -1,4 +1,8 @@
-Note: Translations to other languages forthcoming
+
+## Read This First
+[https://forums.eosgo.io/discussion/1109/governance-announcement](https://forums.eosgo.io/discussion/1109/governance-announcement)
+
+**Note: Translations to other languages forthcoming**
 
 ====
 EOS Community,

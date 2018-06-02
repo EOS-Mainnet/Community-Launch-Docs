@@ -37,7 +37,8 @@ https://github.com/EOS-Mainnet/Community-Launch-Docs.
 	저는 '{{to}}' 계정의 소유자를 알고 있습니다.
  
 문서:
-https://github.com/EOS-Mainnet/Community-Launch-Docs/blob/4475094864637febed29154b2391e92384427bb6/EOS BP Agreement 20180601.txt
+https://github.com/EOS-Mainnet/Community-Launch-Docs/blob/4475094864637febed29154b2391e92384427bb6/EOS%20BP%20Agreement%2020180601.txt
+
  
 변경:
 https://github.com/EOS-Mainnet/Community-Launch-Docs/commit/4475094864637febed29154b2391e92384427bb6#diff-875896b343c7fda4e4221743780fa8f7

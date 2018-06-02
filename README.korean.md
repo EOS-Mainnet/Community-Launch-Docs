@@ -9,7 +9,7 @@ EOS 커뮤니티에게
  
 우리는 이에 대해 이제 다음과 같은 블록 프로듀서 후보들의 동의와 채택을 알리게 되었으며 더 많은 후보들이 추가될 수 있습니다.
  
-**AcroEOS, Aloha EOS, Bitspace, BlockchainLab EOS, Blockgenic, Blockmatrix, Cryptolions, Distributed.Fund, DPoSClub, EOS 42, EOSAmericas, EOS Arabia, EOS Argentina, EOS Army, EOS Asia, EOS Authority, EOS Brazil, EOS Cafe/Calgary, EOS Canada, EOS Costa Rica, EOS-CSX, eosDAC, EOS Detroit, EOS Dublin, EOSIO.SG, EOS Emerge, EOS Lithuania, EOSMediterranean, EOSMeso, EOSMetal, EOS Nation, EOS New York, EOS NodeOne, EOS Pacific, EOSREAL, EOS Romania, EOS Root, EOSphere, EOStark, EOSYS, EOSeco, EOS Tax Relief, EOS Tribe, EOS UK, EOS Union, EOS Van, EOSVibes, GEOS, GenerEOS, LiquidEOS, MEET.ONE, OracleChain, shEOS, Staked, sw/eden, TChain, Tokenika, BP Squared, EOS BPAC, eos.fish, EOSKh, EOSPH, EOS Rio, EOSvietnam, HKEOS, HelloEOS, LibertyBlock,**
+**AcroEOS, Aloha EOS, Bitspace, BlockchainLab EOS, BLOCKCHND, Blockgenic, Blockmatrix, BP Squared, Cryptolions, Distributed.Fund, DPoSClub, EOS 42, EOSAmericas, EOS Arabia, EOS Argentina, EOS Army, EOS Asia, EOS Authority, EOS Brazil,  EOS BPAC, EOS Cafe/Calgary, EOS Canada, EOS Costa Rica, EOS-CSX, eosDAC, EOS Detroit, EOS Dublin, EOSIO.SG, EOS Emerge, eos.fish. EOSGen, EOS Lithuania, EOSMediterranean, EOSMeso, EOSMetal, EOS Nation, EOS New York, EOS NodeOne, EOS Pacific, EOSREAL, EOS Romania, EOS Root, EOSeoul, EOSphere, EOStark, EOSYS, EOSeco, EOS Tax Relief, EOS Tribe, EOS UK, EOS Union, EOS USA, EOS Van, EOSVibes, EOSZON, franceos, GEOS, GenerEOS, LiquidEOS, MEET.ONE, OracleChain, EOSKh, EOSPH, EOS Rio, EOSvietnam, HKEOS, LibertyBlock, shEOS, Staked, sw/eden, TChain, Tokenika,**
  
 제안된 헌법과 아래에 포함된 관련 문서들을 통해 관련 논의가 진행되어 나갈 것입니다. 
  

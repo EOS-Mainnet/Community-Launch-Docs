@@ -34,7 +34,11 @@ I {{producer}} agree not to manipulate the contents of blocks in order to derive
 the order in which transactions are included
 the hash of the block that is produced
 
-I, {{producer}}, hereby agree to disclose and attest under penalty of perjury all ultimate beneficial owners of my company who own more than 10% and all direct shareholders.
+If I, {{producer}}, represent a company I hereby agree to disclose and attest under penalty of perjury all ultimate beneficial owners of my company who own more than 10% and all direct shareholders.
+
+If I, {{producer}}, represent a community I hereby agree to disclose and attest under penalty of perjury all ultimate beneficials of the community who have more than 10% of all votes in the community.
+
+If I, {{producer}}, act in the name of a third party I hereby agree to disclose and attest under penalty of perjury this third party.
 
 I, {{producer}}, hereby agree to cooperate with other block producers to carry out our respective and mutual obligations under this agreement, including but not limited to maintaining network stability and a valid blockchain.
 

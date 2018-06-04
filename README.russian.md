@@ -10,6 +10,7 @@
 - [Испанский](https://github.com/EOS-Mainnet/Community-Launch-Docs/blob/master/README.spanish.md)
 - [Китайский](https://github.com/EOS-Mainnet/Community-Launch-Docs/blob/master/README.chinese.md)
 - [Русский](https://github.com/EOS-Mainnet/Community-Launch-Docs/blob/master/README.russian.md)
+- [English](https://github.com/EOS-Mainnet/Community-Launch-Docs/blob/master/README.md)
 
 
 ## EOS Сообщество,
@@ -18,7 +19,7 @@
 
 Теперь у нас есть согласие и принятие, о которых сообщают следующие кандидаты от производителей блоков, в том числе, но не ограничиваясь: 
 
-**AcroEOS, Aloha EOS, Bitspace, BlockchainLab EOS, BLOCKCHND, Blockgenic, Blockmatrix, BP Squared, Cryptolions, Distributed.Fund, DPoSClub, EOS 42, EOS Africa, EOSAmericas, EOS Arabia, EOS Argentina, EOS Army, EOS Asia, EOS Authority, EOS Brazil, EOS BPAC, EOS Cafe/Calgary, EOS Canada, EOS Costa Rica, EOS-CSX, eosDAC, EOS Detroit, EOS Dublin, EOSIO.SG, EOS Emerge, eos.fish. EOSGen, EOSKh, EOS Lithuania, EOSMediterranean, EOSMeso, EOSMetal, EOS Nation, EOS New York, EOS NodeOne, EOS Pacific, EOSPH, EOSREAL, EOS Rio, EOS Romania, EOS Root, EOSeoul, EOSphere, EOStark, EOSYS, EOSeco, EOS Tax Relief, EOS Tribe, EOS UK, EOS Union, EOS USA, EOS Van, EOSVibes, EOSvietnam, EOSZON, franceos, GEOS, GenerEOS, HKEOS, LibertyBlock, LiquidEOS, MEET.ONE, OracleChain, shEOS, Staked, SuperONE, sw/eden, TChain, Tokenika,**
+**AcroEOS, Aloha EOS, Bitspace, BlockchainLab EOS, BLOCKCHND, Blockgenic, Blockmatrix, BP Squared, BuildTeam, Cryptolions, Distributed.Fund, DPoSClub, DutchEOS, EOS 42, EOS Africa, EOSAmericas, EOS Arabia, EOS Argentina, EOS Army, EOS Asia, EOS Authority, EOS Brazil, EOS BPAC, EOS Cafe/Calgary, EOS Canada, EOS Costa Rica, EOS-CSX, eosDAC, EOS Detroit, EOS Dublin, EOSIO.SG, EOS Emerge, eos.fish. EOSGen, EOSKh, EOS Lithuania, EOSMediterranean, EOSMeso, EOSMetal, EOS Nation, EOS New York, EOS NodeOne, EOS Pacific, EOSPH, EOSREAL, EOS Rio, EOS Romania, EOS Root, EOSeoul, EOSphere, EOStark, EOSYS, EOSeco, EOS Tax Relief, EOS Tribe, EOS UK, EOS Union, EOS USA, EOS Van, EOSVibes, EOSvietnam, EOSZON, franceos, GEOS, GenerEOS, Greymass, HKEOS, LibertyBlock, LiquidEOS, MEET.ONE, MixBytes, OracleChain, shEOS, Staked, SuperONE, sw/eden, TChain, Tokenika,**
 
 предлагаемой Конституции и сопутствующими руководящими документами, находящимися здесь: https://github.com/EOS-Mainnet/Community-Launch-Docs . На данный момент хранилищем будут управлять: David Moss, John Milburn, and Sam Sapoznick.
 

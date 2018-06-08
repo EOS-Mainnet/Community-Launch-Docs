@@ -11,6 +11,7 @@
 - [中文 (Chinese)](https://github.com/EOS-Mainnet/Community-Launch-Docs/blob/master/README.chinese.md)
 - [русский (Russian)](https://github.com/EOS-Mainnet/Community-Launch-Docs/blob/master/README.russian.md)
 - [한국어 (Korean)](https://github.com/EOS-Mainnet/Community-Launch-Docs/blob/master/README.korean.md)
+- [Français (French)](https://github.com/EOS-Mainnet/Community-Launch-Docs/blob/master/README.french.md)
 
 **Note: Translations to other languages forthcoming**
 
